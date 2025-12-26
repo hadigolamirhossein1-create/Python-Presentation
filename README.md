@@ -24,13 +24,3 @@
 ### 📊 آمار و ارقام
 - نظرسنجی Stack Overflow 2023: https://survey.stackoverflow.co/2023/
 - TIOBE Index: https://www.tiobe.com/tiobe-index/
-
----
-
-## 💻 کدهای ارائه
-
-### مثال پردازش سیگنال
-```python
-import numpy as np
-from scipy.signal import butter, filtfilt
-# کد کامل اینجا قرار می‌گیرد
